@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://cdn.discordapp.com" },
+        { "source": "/", "destination": "https://oneamaze.617315281.workers.dev" },
         {
             "source": "/:match*",
-            "destination": "https://cdn.discordapp.com/:match*"
+            "destination": "https://oneamaze.617315281.workers.dev/:match*"
         }
     ],
     "github": {
